@@ -20,11 +20,25 @@
 
 
 
-## API 访问方式
+### API 访问方式
 
 
 
 1. 通过API key的方式访问
+
+
+
+### Heroku
+
+Web平台，可以免费管理Web应用程序的部署
+
+https://heroku.com
+
+
+
+
+
+
 
 
 
